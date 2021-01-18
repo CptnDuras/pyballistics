@@ -1,4 +1,6 @@
 # PyBallistics
+Going to try and translate all of this from russian to use in a project to calculate ballistics... хорошо я не говорю по русски
+
 Python-библиотека для решения ОЗВБ в термодинамической и газодинамической постановках. 
 
 ## Установка
